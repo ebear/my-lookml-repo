@@ -22,6 +22,11 @@ view: claims {
     sql: ${TABLE}.airport_name ;;
   }
 
+  dimension: sleep {
+    type:  string
+    sql:  SLEEP(5) ;;
+  }
+
   dimension: claim_site {
     type: string
     sql: ${TABLE}.claim_site ;;

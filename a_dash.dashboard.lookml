@@ -28,7 +28,7 @@
     limit: '500'
     column_limit: '50'
     stacking: ''
-    show_value_labels: true
+    show_value_labels: false
     label_density: 25
     legend_position: center
     x_axis_gridlines: false
@@ -56,7 +56,7 @@
     hidden_series: [Compliment - Claims Count, Motor Vehicle - Claims Count, Personal Injury - Claims Count,
       Property Damage - Claims Count]
     hidden_fields:
-    y_axes: [{label: percent blah blah, maxValue: h, minValue: !!null '', orientation: left,
+    y_axes: [{label: percent blah blah, maxValue: !!null '', minValue: !!null '', orientation: left,
         showLabels: true, showValues: true, tickDensity: default, tickDensityCustom: 5,
         type: linear, unpinAxis: false, valueFormat: "###%", series: [{id: Motor Vehicle - Claims Count,
             name: Motor Vehicle - Claims Count}, {id: Motor Vehicle - Calculation 1,
