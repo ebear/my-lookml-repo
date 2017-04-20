@@ -24,7 +24,7 @@ view: claims {
 
   dimension: sleep {
     type:  string
-    sql:  SLEEP(5) ;;
+    sql:  SLEEP(1) ;;
   }
 
   dimension: claim_site {
