@@ -1,4 +1,4 @@
-connection: "local"
+connection: "baggage_claim"
 
 # include all the views
 include: "*.view"
