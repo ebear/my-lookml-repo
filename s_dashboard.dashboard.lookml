@@ -1,5 +1,5 @@
-- dashboard: a_dash
-  title: A Dash
+- dashboard: s_dash
+  title: S Dash
   layout: tile
   tile_size: 100
 
@@ -8,7 +8,7 @@
   elements:
   - name: add_a_unique_name_1490648791
     title: Untitled Visualization
-    type: looker_line
+    type: looker_area
     model: baggage_claims
     explore: claims
     dimensions: [claims.claim_type, claims.date_received_date]
@@ -49,7 +49,7 @@
     interpolation: linear
     show_totals_labels: false
     show_silhouette: false
-    totals_color: "#808082"
+    totals_color: "#808080"
     ordering: none
     show_null_labels: false
     series_types: {}
