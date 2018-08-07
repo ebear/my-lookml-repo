@@ -23,7 +23,7 @@
       value_format_name: gbp_0
     filters:
       claims.claim_type: Personal Injury,Property Damage,Compliment,Motor Vehicle
-      claims.date_received_month: 2014/07/01 to 2014/08/31
+      claims.date_received_month: 2014/07/01 to 2014/08/30
     sorts: [claims.claim_type 0, calculation_1 1]
     limit: '500'
     column_limit: '50'
