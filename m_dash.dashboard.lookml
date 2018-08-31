@@ -1,8 +1,7 @@
-- dashboard: a_dash
-  title: A Dash
+- dashboard: m_dash
+  title: M Dash
   layout: tile
   tile_size: 100
-  preferred_slug: AC0tbm9nfiVQYIcmprUeYF
 
   filters:
 
