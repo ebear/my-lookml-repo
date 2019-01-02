@@ -8,7 +8,7 @@
   elements:
   - name: add_a_unique_name_1490648791
     title: Untitled Visualization
-    type: looker_area
+    type: looker_line
     model: baggage_claims
     explore: claims
     dimensions: [claims.claim_type, claims.date_received_date]
@@ -49,7 +49,7 @@
     interpolation: linear
     show_totals_labels: false
     show_silhouette: false
-    totals_color: "#808080"
+    totals_color: "#808082"
     ordering: none
     show_null_labels: false
     series_types: {}
