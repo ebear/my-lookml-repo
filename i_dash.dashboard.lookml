@@ -1,8 +1,7 @@
-- dashboard: a_dash
-  title: A Dash
+- dashboard: i_dash
+  title: I Dash
   layout: tile
   tile_size: 100
-  space_id: 5
 
   filters:
 
