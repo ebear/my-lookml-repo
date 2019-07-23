@@ -2,7 +2,6 @@
   title: A Dash
   layout: tile
   tile_size: 100
-  space_id: 5
   preferred_slug: AC0tbm9nfiVQYIcmprUeYF
 
   filters:
