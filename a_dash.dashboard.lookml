@@ -3,7 +3,6 @@
   layout: tile
   tile_size: 100
   preferred_slug: AC0tbm9nfiVQYIcmprUeYF
-  space_id: 5
 
   filters:
 
