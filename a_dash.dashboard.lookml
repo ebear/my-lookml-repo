@@ -41,7 +41,7 @@
     width: 24
     height: 8
   filters:
-  - name: Airline
+  - name: Airport
     type: field_filter
     default_value: Aero Mexico
     allow_multiple_values: true
