@@ -83,7 +83,7 @@ view: claims {
 
   measure: count {
     type: count
-    drill_fields: [airline_name, total_amount]
+    drill_fields: [total_amount]
   }
 
   measure: total_amount {
