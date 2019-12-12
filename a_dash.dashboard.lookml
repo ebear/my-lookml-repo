@@ -42,7 +42,6 @@
     height: 8
   filters:
   - name: Airline
-    title: Airline
     type: field_filter
     default_value: Aero Mexico
     allow_multiple_values: true
@@ -52,7 +51,6 @@
     listens_to_filters: []
     field: claims.airline_name
   - name: Airport
-    title: Airport
     type: field_filter
     default_value: AUS
     allow_multiple_values: true
